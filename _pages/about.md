@@ -12,26 +12,26 @@ redirect_from:
 
 # 👨‍🎓 About Me
 
-I am **Boyan Wan**, an agriculture student at the College of Agriculture and Biotechnology, Zhejiang University. I am from Shenzhen, China, rank third in my major, and have been admitted to the direct-entry Ph.D. track at Zhejiang University.
+I am **Boyan Wan**, a first-year Ph.D. student in the College of Life Sciences at Zhejiang University, advised by **Prof. Ming Chen**. I received my bachelor's degree from the College of Agriculture and Biotechnology at Zhejiang University in 2026.
 
-My research interests include **crop science, plant stress biology, and the molecular mechanisms of salt tolerance in barley**. During my undergraduate studies, I received research training at the Institute of Nuclear Agricultural Sciences, the State Key Laboratory for Plant Environmental Resilience, and the Institute of Crop Science. I have led a university-level Student Research Training Program and participated in a National College Students' Innovation and Entrepreneurship Training Program.
+My research interests center on **virtual cell modeling, single-cell omics, artificial intelligence, and brain aging**. I am especially interested in using computational approaches to understand complex biological systems across molecular, cellular, and organismal scales.
 
-Beyond research, I am actively involved in innovation competitions, student leadership, and community engagement. I currently serve as a part-time student counselor at the College of Agriculture and Biotechnology. I previously served as a deputy secretary of the Youth League Committee, head of the college innovation and entrepreneurship center, and secretary of the Agronomy 2201 Youth League Branch.
-
-You can find my projects and future updates on [GitHub](https://github.com/fushan-emd).
+Email: [wanboyan@zju.edu.cn](mailto:wanboyan@zju.edu.cn) · GitHub: [fushan-emd](https://github.com/fushan-emd)
 
 <span class="anchor" id="news"></span>
 
 # 🔥 News
 
-<div style="max-height: 200px; width: fit-content; overflow-y: auto; background: #FFFFFF;">
+<div class="news-list">
 <ul>
-  <li><em>2025</em>: &nbsp;🎉 Our team received a Gold Award at the China International College Students' Innovation Competition.</li>
-  <li><em>2025</em>: &nbsp;Our team received a Gold Award at the Zhejiang International College Students' Innovation Competition.</li>
-  <li><em>2025</em>: &nbsp;I received a Silver Award at the 19th Zhejiang Challenge Cup Competition of College Students' Extracurricular Academic and Technological Works.</li>
-  <li><em>2024</em>: &nbsp;🎉 Our team received a Gold Award at the 14th Challenge Cup Qinchunyuan China College Students' Entrepreneurship Competition.</li>
-  <li><em>2024</em>: &nbsp;As project leader, I received a Silver Award at the Zhejiang International College Students' Innovation Competition.</li>
-  <li><em>2023</em>: &nbsp;Our fieldwork team was recognized as an Outstanding Social Practice Team.</li>
+  <li><em>Aug. 2026</em>: Began my Ph.D. studies in the College of Life Sciences at Zhejiang University under the supervision of Prof. Ming Chen.</li>
+  <li><em>Aug. 2026</em>: 🏆 Received a Gold Award at the 15th Challenge Cup China College Students' Entrepreneurship Competition.</li>
+  <li><em>Oct. 28, 2025</em>: 📄 Our paper, <a href="https://doi.org/10.1111/tpj.70535"><strong>A transcription factor HvCBP60-8 confers salt tolerance in barley</strong></a>, was published in <em>The Plant Journal</em>.</li>
+  <li><em>Oct. 2025</em>: 🏆 Received a Gold Award at the China International College Students' Innovation Competition.</li>
+  <li><em>Jul. 10, 2025</em>: 📄 Our paper, <a href="https://doi.org/10.3389/fpls.2025.1574097"><strong>The potential functions of HvDJ genes in regulating salt tolerance in barley</strong></a>, was published in <em>Frontiers in Plant Science</em>.</li>
+  <li><em>Jul. 2025</em>: 🏆 Received a Gold Award at the ABC Cup Zhejiang Provincial International College Students' Innovation Competition.</li>
+  <li><em>Nov. 2024</em>: 🏆 Received a Gold Award at the 14th Challenge Cup Qinchunyuan China College Students' Entrepreneurship Competition.</li>
+  <li><em>Oct. 2024</em>: Received the Zhejiang Provincial Government Scholarship.</li>
 </ul>
 </div>
 
@@ -42,68 +42,93 @@ You can find my projects and future updates on [GitHub](https://github.com/fusha
 <div class="experience-row">
   <img src="images/zju-logo.png" alt="Zhejiang University logo">
   <div>
+    <h3>Bioinformatics Group, College of Life Sciences, Zhejiang University</h3>
+    <p>Ph.D. Student, <em>Aug. 2026 - Present</em></p>
+    <p>Research: Virtual cell modeling, single-cell omics, artificial intelligence, and brain aging</p>
+    <p>Advisor: Prof. Ming Chen</p>
+  </div>
+</div>
+
+<div class="experience-row">
+  <img src="images/zju-logo.png" alt="Zhejiang University logo">
+  <div>
     <h3>Institute of Crop Science, College of Agriculture and Biotechnology, Zhejiang University</h3>
-    <p>Undergraduate Researcher, <em>2024 - Present</em></p>
-    <p>Research Focus: Crop stress tolerance and salt-tolerance mechanisms in barley</p>
+    <p>Undergraduate Researcher, <em>2024 - 2025</em></p>
+    <p>Research: Molecular mechanisms of salt tolerance in barley</p>
     <p>Advisor: Prof. Qiufang Shen</p>
-    <p>Principal investigator of a university-level Student Research Training Program; the project was selected for Zhejiang University's undergraduate National Natural Science Foundation cultivation program.</p>
   </div>
 </div>
 
 <div class="experience-row">
   <img src="images/zju-logo.png" alt="Zhejiang University logo">
   <div>
-    <h3>State Key Laboratory for Plant Environmental Resilience, College of Life Sciences, Zhejiang University</h3>
-    <p>Undergraduate Researcher, <em>2023 - 2024</em></p>
-    <p>Research Focus: Plant environmental stress responses</p>
+    <h3>State Key Laboratory for Plant Environmental Resilience, Zhejiang University</h3>
+    <p>Undergraduate Researcher, <em>2023</em></p>
+    <p>Research: Plant responses to environmental stress</p>
     <p>Advisor: Prof. Zhiye Wang</p>
-    <p>Participant in a National College Students' Innovation and Entrepreneurship Training Program.</p>
   </div>
 </div>
 
-<div class="experience-row">
-  <img src="images/zju-logo.png" alt="Zhejiang University logo">
-  <div>
-    <h3>Institute of Nuclear Agricultural Sciences, College of Agriculture and Biotechnology, Zhejiang University</h3>
-    <p>Undergraduate Researcher, <em>2022 - 2023</em></p>
-    <p>Advisor: Prof. Zhen Yang</p>
-    <p>Received foundational laboratory training and developed an early interest in crop research.</p>
-  </div>
-</div>
+<span class="anchor" id="research-interests"></span>
+
+# 🧬 Research Interests
+
+- Virtual cell modeling and computational systems biology
+- Single-cell and multi-omics data analysis
+- Artificial intelligence for biological discovery
+- Molecular and cellular mechanisms of brain aging
 
 <span class="anchor" id="publications"></span>
 
 # 📄 Publications
 
-1. **The Potential Functions of HvDnaJ Genes in Regulating Salt Tolerance in Barley.** *Frontiers in Plant Science*. Fourth author.
-2. **A transcription factor HvCBP60-8 confers salt tolerance in barley.** *The Plant Journal*. Fourth author.
-3. **HvWRKY33 negatively regulates barley salt tolerance by interacting with HvFAR5 and HvAATP1.** Co-first author (listed third); under revision.
+1. **The potential functions of HvDJ genes in regulating salt tolerance in barley.** *Frontiers in Plant Science*, published July 10, 2025. Co-author. [DOI](https://doi.org/10.3389/fpls.2025.1574097)
+2. **A transcription factor HvCBP60-8 confers salt tolerance in barley.** *The Plant Journal*, published online October 28, 2025. Co-author. [DOI](https://doi.org/10.1111/tpj.70535)
+3. **HvWRKY33 negatively regulates barley salt tolerance by interacting with HvFAR5 and HvAATP1.** Manuscript in preparation.
 
 <span class="anchor" id="honors-and-awards"></span>
 
-# 🎖️ Honors and Awards
+# 🎖️ Honors, Awards and Innovation Achievements
 
-- Gold Award, China International College Students' Innovation Competition, *2025*
-- Gold Award, Zhejiang International College Students' Innovation Competition, *2025*
-- Silver Award, 19th Zhejiang Challenge Cup Competition of College Students' Extracurricular Academic and Technological Works, *2025*
-- Gold Award, 14th Challenge Cup Qinchunyuan China College Students' Entrepreneurship Competition, *2024*
-- Silver Award and Project Leader, Zhejiang International College Students' Innovation Competition, *2024*
-- Zhejiang Provincial Government Scholarship
-- Outstanding Youth League Member and Outstanding Youth League Cadre, Zhejiang University
-- Five-Star Honor for Volunteer Service, Zhejiang University
+- Gold Award, 15th Challenge Cup China College Students' Entrepreneurship Competition, *Aug. 2026*
+- Gold Award, China International College Students' Innovation Competition, *Oct. 2025*
+- Yao Yusu and He Jianyun Scholarship, *Oct. 2025*
+- Gold Award, ABC Cup Zhejiang Provincial International College Students' Innovation Competition, *Jul. 2025*
+- Silver Award, Zhejiang Provincial International College Students' Innovation Competition, *Jul. 2025*
+- Silver Award, 19th Zhejiang Challenge Cup Competition of College Students' Extracurricular Academic and Technological Works, *May 2025*
+- Gold Award, 14th Challenge Cup Qinchunyuan China College Students' Entrepreneurship Competition, *Nov. 2024*
+- Zhejiang Provincial Government Scholarship, *Oct. 2024*
+- Third Prize Scholarship and Outstanding Professional Scholarship, Zhejiang University, *Oct. 2024*
+- Silver Award, Zhejiang Provincial International College Students' Innovation Competition, *Jul. 2024*
+- Third Prize Scholarship and Outstanding Professional Scholarship, Zhejiang University, *Oct. 2023*
 
-<span class="anchor" id="education-and-leadership"></span>
+<span class="anchor" id="innovation-and-entrepreneurship"></span>
 
-# 🎓 Education and Leadership
+# 💡 Innovation and Entrepreneurship
 
-- Agriculture-related undergraduate program, College of Agriculture and Biotechnology, Zhejiang University; ranked third in the major and admitted to the direct-entry Ph.D. track at Zhejiang University.
-- Part-time student counselor, College of Agriculture and Biotechnology, Zhejiang University.
-- Former deputy secretary of the Youth League Committee and head of the college innovation and entrepreneurship center.
-- Led fieldwork programs in Jingdong, Yunnan, and three locations in Hunan; the team was recognized as an Outstanding Social Practice Team in 2023.
-- Led a Youth League branch recognized as both an Advanced Youth League Branch and a May Fourth Red Flag Youth League Branch.
-- Outstanding Training Cadre of Zhejiang University's 2024 military training program; member of the 2026 ideals-and-beliefs lecture team.
+I have participated in interdisciplinary innovation and entrepreneurship projects that connect agricultural science, biotechnology, and real-world applications. These experiences strengthened my skills in project development, teamwork, research communication, and translating scientific ideas into practical solutions.
+
+<span class="anchor" id="education"></span>
+
+# 🎓 Education
+
+- **Ph.D. in Life Sciences**, College of Life Sciences, Zhejiang University, *Aug. 2026 - Present*
+- **B.Sc. in Agriculture**, College of Agriculture and Biotechnology, Zhejiang University, *Sep. 2022 - Jul. 2026*
+
+<span class="anchor" id="specialties-and-hobbies"></span>
+
+# 🏃 Specialties and Hobbies
+
+Outside research, I enjoy running, photography, and exploring emerging technologies. These interests help me stay curious, observant, and open to ideas across disciplines.
 
 <style>
+.news-list {
+  max-height: 260px;
+  width: fit-content;
+  overflow-y: auto;
+  background: #fff;
+  padding-right: 12px;
+}
 .experience-row {
   display: flex;
   align-items: center;

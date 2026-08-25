@@ -1,6 +1,6 @@
 title                    : "Boyan Wan (万博岩)"
 title_separator          : "-"
-description              : "Direct-entry Ph.D. track at Zhejiang University | Crop Science | Plant Stress Biology"
+description              : "Ph.D. Student at Zhejiang University | Virtual Cell Modeling | Single-Cell Omics | AI for Brain Aging"
 url                      : "https://fushan-emd.github.io"
 baseurl                  : ""
 repository               : "fushan-emd/fushan-emd.github.io"
@@ -16,10 +16,10 @@ baidu_site_verification  :
 author:
   name             : "Boyan Wan (万博岩)"
   avatar           : "images/profile.webp"
-  bio              : "Zhejiang University"
+  bio              : "Ph.D. Student, College of Life Sciences, Zhejiang University"
   location         : "Hangzhou, China"
   employer         :
-  email            :
+  email            : "wanboyan@zju.edu.cn"
   github           : "fushan-emd"
   googlescholar    :
   pubmed           :
