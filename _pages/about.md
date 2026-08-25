@@ -12,7 +12,7 @@ redirect_from:
 
 # 👨‍🎓 About Me
 
-I am **Boyan Wan**, a first-year Ph.D. student in the [College of Life Sciences](https://www.cls.en.zju.edu.cn/) at [Zhejiang University](https://www.zju.edu.cn/english/), advised by [**Prof. Ming Chen**](https://person.zju.edu.cn/en/mchen). I received my bachelor's degree from the [College of Agriculture and Biotechnology](https://www.cab.zju.edu.cn/en/) at Zhejiang University in 2026.
+I am **Boyan Wan**, a first-year Ph.D. student in the [College of Life Sciences](https://www.cls.en.zju.edu.cn/) at [Zhejiang University](https://www.zju.edu.cn/english/), advised by [**Prof. Ming Chen**](https://person.zju.edu.cn/mchen). I received my bachelor's degree from the [College of Agriculture and Biotechnology](https://www.cab.zju.edu.cn/en/) at Zhejiang University in 2026.
 
 My research interests center on **virtual cell modeling, single-cell omics, artificial intelligence, and brain aging**. I am especially interested in using computational approaches to understand complex biological systems across molecular, cellular, and organismal scales.
 
@@ -45,7 +45,7 @@ Email: [wanboyan@zju.edu.cn](mailto:wanboyan@zju.edu.cn) · GitHub: [fushan-emd]
     <h3><a href="https://bis.zju.edu.cn/binfo/index.htm">Bioinformatics Group</a>, <a href="https://www.cls.en.zju.edu.cn/">College of Life Sciences</a>, <a href="https://www.zju.edu.cn/english/">Zhejiang University</a></h3>
     <p>Ph.D. Student, <em>Aug. 2026 - Present</em></p>
     <p>Research: Virtual cell modeling, single-cell omics, artificial intelligence, and brain aging</p>
-    <p>Advisor: <a href="https://person.zju.edu.cn/en/mchen">Prof. Ming Chen</a></p>
+    <p>Advisor: <a href="https://person.zju.edu.cn/mchen">Prof. Ming Chen</a></p>
   </div>
 </div>
 
@@ -55,7 +55,7 @@ Email: [wanboyan@zju.edu.cn](mailto:wanboyan@zju.edu.cn) · GitHub: [fushan-emd]
     <h3>Institute of Crop Science, <a href="https://www.cab.zju.edu.cn/en/">College of Agriculture and Biotechnology</a>, <a href="https://www.zju.edu.cn/english/">Zhejiang University</a></h3>
     <p>Undergraduate Researcher, <em>2024 - 2025</em></p>
     <p>Research: Molecular mechanisms of salt tolerance in barley</p>
-    <p>Advisor: <a href="https://person.zju.edu.cn/en/shenqiufang">Prof. Qiufang Shen</a></p>
+    <p>Advisor: <a href="https://person.zju.edu.cn/shenqiufang">Prof. Qiufang Shen</a></p>
   </div>
 </div>
 
@@ -65,7 +65,7 @@ Email: [wanboyan@zju.edu.cn](mailto:wanboyan@zju.edu.cn) · GitHub: [fushan-emd]
     <h3>State Key Laboratory for Plant Environmental Resilience, <a href="https://www.cls.en.zju.edu.cn/">Zhejiang University</a></h3>
     <p>Undergraduate Researcher, <em>2023</em></p>
     <p>Research: Plant responses to environmental stress</p>
-    <p>Advisor: <a href="https://person.zju.edu.cn/en/wangzhiye">Prof. Zhiye Wang</a></p>
+    <p>Advisor: <a href="https://person.zju.edu.cn/wangzhiye">Prof. Zhiye Wang</a></p>
   </div>
 </div>
 
@@ -122,6 +122,12 @@ I have participated in interdisciplinary innovation and entrepreneurship project
 Outside research, I enjoy running, photography, and exploring emerging technologies. These interests help me stay curious, observant, and open to ideas across disciplines.
 
 <style>
+.author__avatar img {
+  width: 75px;
+  height: 75px;
+  object-fit: cover;
+  object-position: center 55%;
+}
 .news-list {
   max-height: 260px;
   width: fit-content;
@@ -143,6 +149,12 @@ Outside research, I enjoy running, photography, and exploring emerging technolog
 .experience-row h3,
 .experience-row p {
   margin: 0;
+}
+@media (min-width: 1024px) {
+  .author__avatar img {
+    width: 175px;
+    height: 175px;
+  }
 }
 @media (max-width: 600px) {
   .experience-row {
