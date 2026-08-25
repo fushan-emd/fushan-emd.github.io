@@ -1,5 +1,5 @@
-# fushan-emd.github.io
+# Boyan Wan's Academic Homepage
 
-万博岩的学术个人主页，内容包括个人简介、科研经历、论文、荣誉与社会实践。
+This repository hosts the source for [fushan-emd.github.io](https://fushan-emd.github.io/).
 
-在线地址：<https://fushan-emd.github.io/>
+The site uses the open-source [AcadHomepage](https://github.com/RayeRen/acad-homepage.github.io) Jekyll template, released under the MIT License. The template structure and responsive academic UI are retained, while all profile content and images are customized for Boyan Wan.
